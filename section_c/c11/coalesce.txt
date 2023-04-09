@@ -1,0 +1,3 @@
+Hàm COALESCE() trả về giá trị khác null đầu tiên trong danh sách
+SELECT COALESCE(picture, forename, 'friend') AS profile
+  FROM member;

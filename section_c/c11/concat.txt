@@ -1,0 +1,3 @@
+Hàm CONCAT() cộng hai hoặc nhiều chuỗi lại với nhau.
+SELECT CONCAT(forename, ' ', surname) AS author //
+  FROM member;
